@@ -1,15 +1,20 @@
 # PROJECT-CREDIT-CARD-FINANCIAL-REPORT
 Made with Power BI and PostgreSQL
 
-Project Overview:
-
+Project Overview
 This Power BI dashboard provides a comprehensive weekly overview of credit card operations, offering real-time insights into key performance metrics and trends. The dashboard is designed to help stakeholders monitor and optimize credit card-related activities efficiently.
 
 Key Features:
 
 Real-time data visualization for monitoring credit card operations.
+
 Interactive graphs and visuals providing deep insights into financial metrics.
+
 KPIs that highlight essential performance indicators like revenue, transactions, and customer satisfaction.
+
+Integration with PostgreSQL to automatically pull weekly credit card transaction data. Power BI is connected to the PostgreSQL database to ensure seamless data updates.
+
+Scheduled refreshes to ensure the dashboard is always updated with the latest weekly data, eliminating manual data imports.
 
 Dashboard Sections:
 
